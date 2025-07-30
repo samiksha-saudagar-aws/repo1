@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Information Page</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Information Page</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>About This Document</h2>
+            <p>This document provides a basic example of how to structure information using HTML.</p>
+        </section>
+
+        <section>
+            <h2>Key Information Points</h2>
+            <ul>
+                <li><strong>Point 1:</strong> HTML uses tags to define content.</li>
+                <li><strong>Point 2:</strong> The `<!DOCTYPE html>` declaration defines the document type.</li>
+                <li><strong>Point 3:</strong> The `<html>` element is the root element of an HTML page.</li>
+                <li><strong>Point 4:</strong> The `<head>` element contains meta-information about the HTML page.</li>
+                <li><strong>Point 5:</strong> The `<body>` element contains the visible page content.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Example of Code</h2>
+            <pre><code>
+&lt;p&gt;This is a paragraph.&lt;/p&gt;
+&lt;h1&gt;This is a heading.&lt;/h1&gt;
+            </code></pre>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Information Creator</p>
+    </footer>
+
+</body>
+</html>
